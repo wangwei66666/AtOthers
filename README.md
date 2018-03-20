@@ -14,5 +14,9 @@ EditText中设置部分字体变色，通过SpannableString设置的。
 
 
 ![@others.gif](https://upload-images.jianshu.io/upload_images/2194177-7962d570ac611c08.gif?imageMogr2/auto-orient/strip)
+
+
 ![效果图1.png](https://upload-images.jianshu.io/upload_images/2194177-2ed5e48398c4c468.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
+
+
 ![效果图2.png](https://upload-images.jianshu.io/upload_images/2194177-b720aa7924cad8e1.png?imageMogr2/auto-orient/strip%7CimageView2/2/w/1240)
